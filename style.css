@@ -74,3 +74,10 @@ p21{
 p22{
   background-color: red
 }
+
+.photos {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
