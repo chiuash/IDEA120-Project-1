@@ -2,6 +2,9 @@
 body {
   background-color: lightgreen
 }
+body {
+  font-family: 'Josefin Slab', serif;
+}
 p1{
   background-color: red
 }
@@ -20,11 +23,17 @@ p5{
 p5{
   font-size: 40px
 }
+p5{
+  color: white
+}
 h2{
   font-family: 'Permanent Marker', cursive;
 }
 p6{
   background-color: indigo
+}
+p6{
+  color: white
 }
 p7{
   background-color: violet
@@ -44,8 +53,14 @@ p11{
 p12{
   background-color: blue
 }
+p12 {
+  color: white
+}
 p13{
   background-color: indigo
+}
+p13{
+  color: white
 }
 p14{
   background-color: violet
@@ -65,8 +80,14 @@ p18{
 p19{
   background-color: blue
 }
+p19{
+  color: white
+}
 p20{
   background-color: indigo
+}
+p20{
+  color: white
 }
 p21{
   background-color: violet
